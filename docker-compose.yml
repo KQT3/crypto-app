@@ -1,0 +1,19 @@
+# docker stop crypto-app && docker rm crypto-app && docker rmi crypto-app
+# docker build -t crypto-app .
+# docker-compose up
+
+version: '3.7'
+
+services:
+  gt3music-client:
+    container_name: crypto-app
+    image: crypto-app:latest
+    ports:
+      - "3000:80"
+    networks:
+      - chaincue-tech-net
+
+networks:
+  chaincue-tech-net:
+    name: chaincue-tech-net
+    driver: bridge
