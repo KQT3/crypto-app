@@ -4,7 +4,7 @@ module.exports = {
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
   eslint: {
-    dirs: ['pages', 'components', 'lib', 'layouts', 'scripts'],
+    dirs: ['pages', 'components', 'lib', 'layouts', 'scripts', 'assets', 'styles'],
   },
   webpack(config, {dev, isServer}) {
     config.module.rules.push({
