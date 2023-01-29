@@ -1,4 +1,10 @@
 #### Crypto App
+
+https://crypto.chaincuet.com/
+
+#### Setup
+
 ```
-Crypto
+yarn
+yarn dev
 ```
