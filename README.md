@@ -1,4 +1,4 @@
-#### Crypto App
+#### Crypto Application
 
 https://crypto.chaincuet.com/
 
