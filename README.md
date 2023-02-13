@@ -1,4 +1,4 @@
-#### Crypto Application dwda
+#### Crypto Application
 
 https://crypto.chaincuet.com/
 
