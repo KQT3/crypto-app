@@ -1,4 +1,4 @@
-#### Crypto Application teste
+#### Crypto Application
 
 https://crypto.chaincuet.com/
 
