@@ -1,4 +1,4 @@
-#### Crypto Applicationdwdwd
+#### Crypto Application
 
 https://crypto.chaincuet.com/
 
