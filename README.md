@@ -1,4 +1,4 @@
-#### Crypto Application from Pontus
+#### Crypto Application 
 
 https://crypto.chaincuet.com/
 
